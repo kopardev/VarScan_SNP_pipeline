@@ -1,3 +1,5 @@
+**This pipeline is no longer actively maintained!**
+
 #VarScan\_SNP\_pipeline  
 ********************  
 Dependent on:  
